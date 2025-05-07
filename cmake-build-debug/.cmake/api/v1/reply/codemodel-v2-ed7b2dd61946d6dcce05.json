@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/bret/Desktop/Project 3A Final/cmake-build-debug",
-		"source" : "/Users/bret/Desktop/Project 3A Final"
+		"build" : "/Users/bret/Documents/GitHub/Connect4/Connec4Game/cmake-build-debug",
+		"source" : "/Users/bret/Documents/GitHub/Connect4/Connec4Game"
 	},
 	"version" : 
 	{

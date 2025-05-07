@@ -15,8 +15,7 @@ static const string mapping[] = {
 
 static void print(int numBins) {
     cout << "+";
-    for (int i = 0; i < numBins; ++i)
-        cout << "---+";
+    for (int i = 0; i < numBins; ++i) cout << "---+";
     cout << "\n";
 }
 
@@ -34,22 +33,18 @@ void Board::display() const {
     print(numBins);
 
     for (int lvl = capacity - 1; lvl >= 0; --lvl) {
-        for (int i = 0; i < numBins; ++i) {
-            cout << "| ";
+        for (int i = 0; i < numBins; ++i) {cout << "| ";
             if (lvl < (int)grid[i].size()) {
                 int v = grid[i][lvl];
                 if (v >= 0 && v < 4) cout << mapping[v];
-                else             cout << ' ';}
+                else cout << ' ';}
             else {cout << ' ';}
-            cout << " ";
-        }
+            cout << " ";}
         cout << "|" << "\n";
-        print(numBins);
-    }
+        print(numBins);}
 
     cout << " ";
-    for (int i = 0; i < numBins; ++i) {
-        cout << " " << i << "  ";}
+    for (int i = 0; i < numBins; ++i) {cout << " " << i << "  ";}
     cout << "\n";
 }
 

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/bret/Desktop/Project 3A Final/cmake-build-debug"
+			"value" : "/Users/bret/Documents/GitHub/Connect4/Connec4Game/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/bret/Desktop/Project 3A Final/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/bret/Documents/GitHub/Connect4/Connec4Game/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/bret/Desktop/Project 3A Final"
+			"value" : "/Users/bret/Documents/GitHub/Connect4/Connec4Game"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/bret/Desktop/Project 3A Final/cmake-build-debug"
+			"value" : "/Users/bret/Documents/GitHub/Connect4/Connec4Game/cmake-build-debug"
 		},
 		{
 			"name" : "Project_3A_Final_IS_TOP_LEVEL",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/bret/Desktop/Project 3A Final"
+			"value" : "/Users/bret/Documents/GitHub/Connect4/Connec4Game"
 		}
 	],
 	"kind" : "cache",

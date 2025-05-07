@@ -7,16 +7,16 @@ using namespace std;
 
 class Board {
 public:
-    int numBins;                  // how many bins (minimum 5)
-    int capacity;                 // max elements per bin (minimum 4)
-    vector<vector<int>> grid;     // each bin holds a sequence of ints (0–3)
+    int numBins;
+    int capacity;
+    vector<vector<int>> grid;
 
-    Board();                      // default: numBins=6, capacity=4
+    Board();
     Board(int numBins, int capacity);
     ~Board() = default;
 
-    void display() const;         // draw the board with Unicode shapes
-    int add(int player);          // interactively choose a bin and push_back(player)
+    void display() const;
+    int add(int player);
 };
 
-#endif // BOARD_HPP
+#endif
