@@ -1,0 +1,5 @@
+# ninja log v6
+1	48	1746578712719088596	build.ninja	c8ac300dfac5181e
+1	552	1746576253747289337	CMakeFiles/Project_3A_Final.dir/Board.cpp.o	c9e8c062823c272
+362	398	1746578513765247193	Project_3A_Final	dfc71d6b8395ecaf
+5	362	1746578513408649751	CMakeFiles/Project_3A_Final.dir/main.cpp.o	143e6d615c3987c0
